@@ -7,7 +7,7 @@ export default function page()
     <div>
       <h1>CPRG 306: Web Development 2 - Assignments</h1>
       <StudentInfo/>
-      <Link href="\week2">week2</Link>
+      <Link href="\week2">Week 2</Link>
       
 
     </div>
